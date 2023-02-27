@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticalEnoch</string>
+    <string name="track_your_favourite_repo">Track your favourite repo</string>
+    <string name="add">Add Now</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="search_repo_name">Search Repo Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date">Date</string>
+    <string name="comment">Comment</string>
+</resources>
